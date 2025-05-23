@@ -31,5 +31,5 @@ st.download_button(
     mime="image/png"
 )
 
-st.ballons()
+st.balons()
 
